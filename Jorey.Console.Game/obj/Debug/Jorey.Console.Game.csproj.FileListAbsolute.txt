@@ -1,0 +1,5 @@
+C:\Users\seukari\Downloads\JoreyGameEngine-master\JoreyGameEngine-master\Jorey.Console.Game\bin\Debug\Jorey.Console.Game.dll
+C:\Users\seukari\Downloads\JoreyGameEngine-master\JoreyGameEngine-master\Jorey.Console.Game\bin\Debug\Jorey.Console.Game.pdb
+C:\Users\seukari\Downloads\JoreyGameEngine-master\JoreyGameEngine-master\Jorey.Console.Game\obj\Debug\Jorey.Console.Game.csprojResolveAssemblyReference.cache
+C:\Users\seukari\Downloads\JoreyGameEngine-master\JoreyGameEngine-master\Jorey.Console.Game\obj\Debug\Jorey.Console.Game.dll
+C:\Users\seukari\Downloads\JoreyGameEngine-master\JoreyGameEngine-master\Jorey.Console.Game\obj\Debug\Jorey.Console.Game.pdb

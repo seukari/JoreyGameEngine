@@ -1,0 +1,8 @@
+C:\Users\seukari\Downloads\JoreyGameEngine-master\JoreyGameEngine-master\TestingBench\bin\Debug\TestingBench.exe.config
+C:\Users\seukari\Downloads\JoreyGameEngine-master\JoreyGameEngine-master\TestingBench\bin\Debug\TestingBench.exe
+C:\Users\seukari\Downloads\JoreyGameEngine-master\JoreyGameEngine-master\TestingBench\bin\Debug\TestingBench.pdb
+C:\Users\seukari\Downloads\JoreyGameEngine-master\JoreyGameEngine-master\TestingBench\bin\Debug\Jorey.Console.Game.dll
+C:\Users\seukari\Downloads\JoreyGameEngine-master\JoreyGameEngine-master\TestingBench\bin\Debug\Jorey.Console.Game.pdb
+C:\Users\seukari\Downloads\JoreyGameEngine-master\JoreyGameEngine-master\TestingBench\obj\Debug\TestingBench.csprojResolveAssemblyReference.cache
+C:\Users\seukari\Downloads\JoreyGameEngine-master\JoreyGameEngine-master\TestingBench\obj\Debug\TestingBench.exe
+C:\Users\seukari\Downloads\JoreyGameEngine-master\JoreyGameEngine-master\TestingBench\obj\Debug\TestingBench.pdb
